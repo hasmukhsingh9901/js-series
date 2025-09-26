@@ -4,13 +4,15 @@ var account_password = "123456"
 account_place = "LA";
 // account_id = 43454656564564356456 // not allowed
 
+let account_state;
+
 
 account_email = "hasmukh.singh.google@gmail.com";
 account_password = "qwygeuih"
 account_place = "California"
 
-// Scopes
+// Scopes1
 
-console.table([account_email, account_password, account_place])
+console.table([account_email, account_password, account_place, account_state])
 
 
